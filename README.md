@@ -1,4 +1,4 @@
-# Inspired by Dribbble design #DAY4
+# Inspired by Dribbble design #DAY3
 
 - https://dribbble.com/shots/14709020-Calculator/attachments/6408579?mode=media
 
